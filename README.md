@@ -15,3 +15,7 @@ To analyze sales data and extract meaningful business insights.
 
 ## Conclusion
 Data analysis helps identify high-performing areas and optimize low-performing products to improve business performance.
+
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
